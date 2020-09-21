@@ -1,0 +1,8 @@
+﻿  QuanLySach.cpp
+  QuanLyDocGia.cpp
+  PhieuMuonTraSach.cpp
+  main.cpp
+e:\library manager\qltvccode\main.cpp(23): warning C4129: 'H': unrecognized character escape sequence
+  Generating Code...
+e:\library manager\qltvccode\phieumuontrasach.cpp(616): warning C4715: 'TienPhat': not all control paths return a value
+  QLTVCCode.vcxproj -> E:\Library Manager\Debug\QLTVCCode.exe
